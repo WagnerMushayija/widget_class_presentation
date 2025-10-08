@@ -17,9 +17,6 @@ The app uses a dark theme and displays the buttons in a row, making it visually 
   - Tooltip
   - Print action on press for testing
 
-## Screenshots
-
-*(Optional: Add a screenshot of the running app here for presentation purposes)*
 
 ## Getting Started
 
@@ -36,4 +33,5 @@ The app uses a dark theme and displays the buttons in a row, making it visually 
    cd icon_button_demo/lib
 
 ## Author
-*Wagner Mushayija*
+*Wagner Mushayija* Presented on 6th Oct [Link to slides ](https://www.canva.com/design/DAG022g81Ms/losipnqJ5DGQn6j5NIkXeQ/edit?utm_content=DAG022g81Ms&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
